@@ -1,5 +1,5 @@
 {
-  "name": "sangeet",
+  "name": "zankibot",
   "version": "1.0.0",
   "description": "Streams music from youtube music",
   "main": "src/main.ts",
@@ -9,7 +9,7 @@
     "docker:up": "docker compose up -d --build",
     "docker:down": "docker compose down"
   },
-  "author": "Sumanth Perambuduri",
+  "author": "Miguel",
   "license": "Apache-2.0",
   "dependencies": {
     "@discordjs/voice": "^0.16.0",
